@@ -99,7 +99,7 @@ app.get('/logout', (req, res) => {
 
   
 
-app.listen(3005)
+app.listen(3005);
 
 
 
@@ -112,4 +112,4 @@ app.listen(3005)
 
 
 
-app.listen(3000)
+
